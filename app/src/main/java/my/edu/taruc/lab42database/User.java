@@ -18,6 +18,10 @@ public class User {
 
     private  String lastName;
 
+    public static int getWord() {
+        return 0;
+    }
+
     @NonNull
     public String getPhone() {
         return phone;
